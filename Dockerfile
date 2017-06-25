@@ -4,7 +4,7 @@ MAINTAINER Marcos Maia <maia.marcos@gmail.com>
 
 ENV JAVA_HOME=/usr/java/default/ \
     ZK_HOSTS=kafka:2181 \
-    KM_VERSION=1.3.3.6 \
+    KM_VERSION=1.3.3.7 \
     KM_REVISION=master \
     KM_CONFIGFILE="conf/application.conf"
 

@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: mmaia/kafka-manager:1.3.3.7
+    image: mmaia/kafka-manager:1.3.3.13
     container_name: kafka-manager
     ports:
       - '9000:9000'
